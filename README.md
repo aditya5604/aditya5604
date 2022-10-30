@@ -4,3 +4,5 @@
 
 **TABLE OF CONTENTS**
   
+<img src = "./https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/16px-C_Programming_Language.svg">
+
