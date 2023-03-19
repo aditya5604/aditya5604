@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm ADITYA RAJ SINHA</h1>
 
-**I am a CSE undergrad at IIIT Manipur and my area of interests are AI, ML, Data Science and Business Analytics **
+<h2 align="center">I am a CSE undergrad at IIIT Manipur and my area of interests are AI, ML, Data Science and Business Analytics</h2>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/7VzgMsB6FLCilwS30v/giphy-downsized-large.gif" width="100"/>
+  <img src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=900&t=st=1679228708~exp=1679229308~hmac=db9540a703da3652552ee8bb25d3819fffe373a563d3172aec7a9b9cc873499b" width="1000"/>
 </div>
 
 ## TABLE OF CONTENTS 
