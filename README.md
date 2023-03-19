@@ -1,8 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm ADITYA RAJ SINHA</h1>
 
-**I am a CSE undergrad at IIIT Manipur and my area of interests are IoT , AI, ML & CYBERSECURITY**
+**I am a CSE undergrad at IIIT Manipur and my area of interests are AI, ML, Data Science and Business Analytics **
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/7VzgMsB6FLCilwS30v/giphy-downsized-large.gif" width="100"/>
+</div>
 
 ## TABLE OF CONTENTS 
 **LANGUAGES I USE :**\
