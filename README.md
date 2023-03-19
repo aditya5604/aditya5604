@@ -1,7 +1,12 @@
-# 💫 About Me:
+<div align = 'center'>
+  
+#  About Me
+  </div>
 Hi there, I'm a technology enthusiast with a keen interest in Artificial Intelligence (AI), Machine Learning (ML), Data Science, and the Internet of Things (IoT). I'm fascinated by the potential of these technologies to transform our world, and I'm constantly seeking to expand my knowledge and skills in these areas.<br><br>In my free time, I enjoy reading about the latest developments in AI and ML, experimenting with new data analysis techniques, and exploring the ways in which IoT devices can be used to enhance our daily lives. I'm always eager to learn more and to connect with others who share my passion for these exciting fields.<br><br>Whether it's discussing the latest breakthroughs in AI research, collaborating on a data-driven project, or brainstorming ideas for innovative IoT applications, I'm always up for a stimulating conversation. So if you share my interests, don't hesitate to reach out and say hello!
 
 
+<div align = 'center'>
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityasinha564) 
 
@@ -11,4 +16,6 @@ Hi there, I'm a technology enthusiast with a keen interest in Artificial Intelli
 ![](https://github-readme-stats.vercel.app/api?username=aditya5604&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aditya5604&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya5604&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+  </div>
 
